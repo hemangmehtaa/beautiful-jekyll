@@ -15,7 +15,7 @@ author: Hemang Mehta
 
 navbar-links:
   About Me: "aboutme"
-  SAMPLE: "/_pages/sample.md"
+  SAMPLE: "/hemangmehtaa.gihub.io/_pages/sample.md"
 #  Resources:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
 #    - Learn markdown: "https://www.markdowntutorial.com/"
