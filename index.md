@@ -1,4 +1,5 @@
 ---
 layout: page
-subtitle: Hello, I'm Hemang Mehta
+title: Hello,
+subtitle: I'm Hemang Mehta
 ---
